@@ -12,7 +12,7 @@
 
 **Как пользоваться**
 
-* Запуск программы производится командой `calculator.py'
+* Запуск программы производится командой `calculator.py`
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/N7S1Qzd/calc.jpg" alt="calc" border="0"></a> 
 
