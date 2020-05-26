@@ -14,7 +14,7 @@
 
 * Запуск программы производится командой `calculator.py'
 
-![alt text](<a href="https://imgbb.com/"><img src="https://i.ibb.co/N7S1Qzd/calc.jpg" alt="calc" border="0"></a>) 
+![](<a href="https://imgbb.com/"><img src="https://i.ibb.co/N7S1Qzd/calc.jpg" alt="calc" border="0"></a>) 
 
 * Pi - число пи
 * M - занесение набранного текста в память (буфер обмена)
